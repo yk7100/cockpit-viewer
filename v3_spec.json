@@ -1,0 +1,14 @@
+{
+  "reference_height_h_mm": 900.0,
+  "inner_width_mm": 700.0,
+  "outer_width_mm": 880.0,
+  "post_section_mm": "90.0x90.0",
+  "post_qty": 4,
+  "post_length_mm": 900.0,
+  "base_plate_size_mm": "300.0x300.0x18",
+  "base_plate_qty": 4,
+  "reinforcement_ribs_qty": 8,
+  "desk_height_mm": 520.0,
+  "desk_size_mm": "790.0 x 350.0",
+  "monitor_size_approx": "27 inch (620x370 mm)"
+}

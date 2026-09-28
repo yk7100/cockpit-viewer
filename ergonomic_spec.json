@@ -1,0 +1,19 @@
+{
+  "overall_dimensions_mm": {
+    "width": 880,
+    "length": 1500,
+    "height": 950
+  },
+  "shape": "長方形 (幅880 x 全長1500mm)",
+  "posts_qty": 4,
+  "post_section_mm": "90x90",
+  "post_height_mm": 950,
+  "door_dimensions_mm": {
+    "width": 750,
+    "height": 800,
+    "sill_height": 50
+  },
+  "foot_clearance_mm": 700,
+  "trip_hazard_eliminated": "通路・足元側の三角リブを完全撤去し、床面を100%フラット化",
+  "timber_frame_rule": "木の枠は縦の4本角柱のみ"
+}
